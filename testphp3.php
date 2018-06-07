@@ -27,7 +27,8 @@ $payload = json_encode(
                 'sales_model' => 'single_purchase',
                 'title' => $title
             )
-        )
+            ),
+            'template' => '7bc3e2e3-cfeb-4201-b726-d7ed5d99c9fd'
     ]
     );
 
