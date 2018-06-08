@@ -8,7 +8,7 @@ $articleId = 'something123';
 // this var might be a constant in the beginning, or a custom CMS field
 $price = 39;
 // ideally fill via CMS article title
-$title = 'my article title';
+$title = 'This is my amazing post.';
 
 // insert your merchant secret (web.sandbox.uselaterpaytest.com/merchant -> Developer section) here USING Omaha World Herald
 $secret = '96eb7e66d6274d3593557860dd75991c';
