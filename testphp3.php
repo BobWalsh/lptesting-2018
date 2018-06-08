@@ -13,6 +13,7 @@ $title = 'This is my amazing post.';
 // insert your merchant secret (web.sandbox.uselaterpaytest.com/merchant -> Developer section) here USING Omaha World Herald
 $secret = '96eb7e66d6274d3593557860dd75991c';
 
+
 // Create token payload as a JSON string
 $payload = json_encode(
     [
