@@ -4,11 +4,11 @@
 $header = json_encode(['typ' => 'JWT', 'alg' => 'HS256']);
 
 // this var should be filled with your input, unique per article (perhaps from CMS)
-$articleId = 'something123';
+$articleId = 'something1234';
 // this var might be a constant in the beginning, or a custom CMS field
 $price = 39;
 // ideally fill via CMS article title
-$title = 'This is my amazing post.';
+$title = 'This is my new amazing post.';
 
 // insert your merchant secret (web.sandbox.uselaterpaytest.com/merchant -> Developer section) here USING Omaha World Herald
 $secret = '96eb7e66d6274d3593557860dd75991c';
