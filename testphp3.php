@@ -29,7 +29,7 @@ $payload = json_encode(
                 'title' => $title
             )
             ),
-            'template' => '7bc3e2e3-cfeb-4201-b726-d7ed5d99c9fd'
+            'template' => '1eb988c6-4551-4924-af4e-a09421eef8f2'
     ]
     );
 
